@@ -1,0 +1,11 @@
+groq
+vosk
+requests
+pyaudio
+pynput
+python-dotenv
+PyMuPDF
+transformers
+torch
+sounddevice
+soundfile
